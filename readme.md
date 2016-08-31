@@ -1,6 +1,6 @@
 # htpl: hypertext programming language
 
-An exercise in hijacking valid html for horrible purposes.
+An exercise in hijacking (mostly) valid html for horrible purposes.
 
 *For the love of god, do not use this in real life.*
 
@@ -10,4 +10,4 @@ An exercise in hijacking valid html for horrible purposes.
     <div class='funk' id='say-hello'>
       <!-- do stuff here -->
     </div>
-    <a href='say-hello'></a>
+    <ins id='say-hello'></ins>
