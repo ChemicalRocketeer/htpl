@@ -1,5 +1,5 @@
 <html>
-  <main id='htpl'>
+  <main id='htpl' style='display:none'>
     <div class='funk' id='say-hello'>
       <ins id='print'>Hello <ins id='name'></ins></ins>
     </div>
