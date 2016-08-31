@@ -1,0 +1,11 @@
+<html>
+  <main id='htpl'>
+    <div class='funk' id='say-hello'>
+      <ins id='print'>Hello <ins id='name'></ins></ins>
+    </div>
+    <ins id='say-hello'><var id='name'>Bob</var></ins>
+    <ins id='say-hello'><var id='name'>Ben</var></ins>
+  </main>
+
+  <script src='htpl.js'></script>
+</html>
